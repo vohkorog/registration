@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/Pet project/system of registration/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/app.dir/User.cpp.o -c \"/Users/kirillgorohov/Desktop/codes/c++/Pet project/system of registration/User.cpp\"",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/Pet project/system of registration/User.cpp",
+  "output": "CMakeFiles/app.dir/User.cpp.o"
+},
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/Pet project/system of registration/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/app.dir/main.cpp.o -c \"/Users/kirillgorohov/Desktop/codes/c++/Pet project/system of registration/main.cpp\"",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/Pet project/system of registration/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.o"
+}
+]
